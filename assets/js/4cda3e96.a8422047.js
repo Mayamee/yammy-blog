@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcv_blog=self.webpackChunkcv_blog||[]).push([[7440],{364:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/yammy-blog/blog/tags/facebook","allTagsPath":"/yammy-blog/blog/tags","count":1}')}}]);
